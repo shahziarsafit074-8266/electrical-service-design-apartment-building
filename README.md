@@ -179,21 +179,6 @@ electrical-service-design-residential-building/
 - BOQ/BOM Preparation
 - Cost Estimation
 
-## Course Information
-
-**Course Title:** Electrical Service Design  
-**Course Code:** EEE 4100  
-**Department:** Electrical & Electronic Engineering  
-**Institution:** Rajshahi University of Engineering & Technology (RUET)  
-**Academic Level:** 4th Year  
-**Student ID:** 2001074
-
-## Author
-
-**Shahziar Karim Safit**  
-Department of Electrical & Electronic Engineering  
-Rajshahi University of Engineering & Technology (RUET)
-
 ## Purpose
 
 This repository documents and showcases the electrical service design work completed as an academic engineering project, including CAD drawings, engineering calculations, substation design, protection systems, and project documentation.
